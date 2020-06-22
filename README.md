@@ -1,4 +1,4 @@
-# Autonomous-Driving---Udemy-Course
+# Autonomous Driving Udemy Course
 # Created by Rayan Slim, Amer Sharaf, Jad Slim, Sarmad Tanveer
 # https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/
 
